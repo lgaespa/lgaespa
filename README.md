@@ -19,3 +19,4 @@ Actualmente me encuentro trabajando en una aplicación web para la gestion de un
 
 - LinkedIn: https://www.linkedin.com/in/gabrielEstebanP/
 - E-mail: gabrielesteb4n@gmail.com
+- +57 3007149227
