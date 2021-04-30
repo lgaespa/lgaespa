@@ -1,16 +1,21 @@
-### Hi there 👋
+# ¡Hola¡ Soy Gabriel 👋
+Soy FullStack Developer, apasionado del mundo de la programación.
+Actualmente me encuentro trabajando en una aplicación web para la gestion de un Hotel como parte de mi proyecto final para Henry Bootcamp. 
 
-<!--
-**lgaespa/lgaespa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My skills
 
-Here are some ideas to get you started:
+- JavaScript
+- HTML/CSS
+- React Js
+- Redux
+- NodeJS/Express
+- Sequelize & PostgreSQL
+- Supabase
+- Typescript
+- Sass/Less
+- AntDesign
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+- LinkedIn: https://www.linkedin.com/in/gabrielEstebanP/
+- E-mail: gabrielesteb4n@gmail.com
