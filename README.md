@@ -7,6 +7,7 @@ Actualmente me encuentro trabajando en una aplicación web para la gestion de un
 - JavaScript
 - HTML/CSS
 - React Js
+- Vue/Nuxt js
 - Redux
 - NodeJS/Express
 - Sequelize & PostgreSQL
